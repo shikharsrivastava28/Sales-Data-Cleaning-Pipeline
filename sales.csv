@@ -1,0 +1,4 @@
+id,product_id,product_name,price,country
+1,101,"Widget A",$10.50,USA
+2,102,Widget B,$5.00,Canada
+3,103,Widget A,10.50,USA

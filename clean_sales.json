@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "product_id":101,
+        "product_name":"Widget A",
+        "price":10.5,
+        "country":"USA",
+        "price_inr":871.5
+    },
+    {
+        "id":2,
+        "product_id":102,
+        "product_name":"Widget B",
+        "price":5.0,
+        "country":"Canada",
+        "price_inr":415.0
+    }
+]
