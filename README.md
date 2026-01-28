@@ -9,7 +9,7 @@
 pip install pandas
 
 <h3>Step 2: Run the script</h3>
-python python.ipynb
+python main.py
 <h5>Note: Make sure sales.csv is present in the same directory before running the script.</h5>
 
 <h1>3. The Logic (How I thought)</h1>
